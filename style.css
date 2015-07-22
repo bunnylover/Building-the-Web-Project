@@ -72,7 +72,7 @@ body {
 
 /* generated css button */
 
-.myButton {
+.main-menu a {
 	-moz-box-shadow: 0px 10px 14px -7px #3e7327;
 	-webkit-box-shadow: 0px 10px 14px -7px #3e7327;
 	box-shadow: 0px 10px 14px -7px #3e7327;
@@ -98,7 +98,7 @@ body {
 	text-decoration:none;
 	text-shadow:0px 1px 0px #5b8a3c;
 }
-.myButton:hover {
+.main-menu a:hover {
 	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #72b352), color-stop(1, #77b55a));
 	background:-moz-linear-gradient(top, #72b352 5%, #77b55a 100%);
 	background:-webkit-linear-gradient(top, #72b352 5%, #77b55a 100%);
@@ -108,7 +108,7 @@ body {
 	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#72b352', endColorstr='#77b55a',GradientType=0);
 	background-color:#72b352;
 }
-.myButton:active {
+.main-menu a:active {
 	position:relative;
 	top:1px;
 }
