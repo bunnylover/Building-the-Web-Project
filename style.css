@@ -39,8 +39,28 @@ body {
     box-sizing: border-box;
 }
 
+
+
+
+
+
+/* Main Menu Stuff */
+
 .main-menu {
     background: #FF0000;
+}
+
+.main-menu a {
+    background-color: #00FF00;
+    border-color: #00DD00;
+    font-weight: bold;
+    display: inline-block;
+    padding: 5px 10px;
+}
+
+.main-menu a:hover {
+    background-color: #00DD00;
+    color: #FFFFFF;
 }
 
 
