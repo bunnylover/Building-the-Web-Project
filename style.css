@@ -33,6 +33,8 @@ body {
     color: #FFFFFF;
     font-size: 14px;
     line-height: 130%;
+    
+    box-sizing: border-box;
 }
 
 
