@@ -60,6 +60,8 @@ body {
     font-weight: bold;
     display: inline-block;
     padding: 5px 10px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .main-menu a:hover {
